@@ -1,0 +1,15 @@
+{
+  "name": "nitorcalc",
+  "collaborators": [
+    "vinod.jadhav"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "nitorcalc_bg.wasm",
+    "nitorcalc.js",
+    "nitorcalc.d.ts"
+  ],
+  "module": "nitorcalc.js",
+  "types": "nitorcalc.d.ts",
+  "sideEffects": false
+}
